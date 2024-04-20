@@ -9,10 +9,12 @@ This is a simple Streamlit application that allows users to find the largest amo
 - User-friendly interface with three input fields for entering numbers
 - Instant result display upon clicking the "Find Largest" button
 - Responsive design for optimal viewing experience on various devices
-- Installation
-- To run this application locally, follow these steps:
 
-### Make sure you have Python installed on your system
+## Installation
+
+To run this application locally, follow these steps:
+
+1. Make sure you have Python installed on your system
 
 Install the required dependencies by running the following command:
 
@@ -20,14 +22,16 @@ Install the required dependencies by running the following command:
 pip install streamlit
 ```
 
-### Clone or download the repository to your local machine
+2. Clone or download the repository to your local machine
 
 Navigate to the project directory in your terminal or command prompt.
-Run the following command to start the Streamlit app:
+
+3. Run the following command to start the Streamlit app:
 
 ```
 streamlit run largest_number.py
 ```
+
 The application will open in your default web browser, and you can start using it.
 
 ### Usage
@@ -39,9 +43,10 @@ The application will open in your default web browser, and you can start using i
 The application will determine the largest number among the three inputs and display the result.
 
 ### Deployment
+
 This application is also hosted on Streamlit Cloud, and you can access it using the following link:
 
-[https://find-the-largest-number.streamlit.app/]
+[Click Here](https://find-the-largest-number.streamlit.app/)
 
 
 ### Acknowledgments
